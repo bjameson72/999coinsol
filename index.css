@@ -42,7 +42,19 @@ body {
 }
 
 
- 
+ .livefree:hover {
+    color: #BF40BF;
+ }
 
+ .social-items svg {
+    color: #fff;
+ }
 
-  
+ .social-items svg:hover {
+    color: #BF40BF;
+ }
+
+ #ca button:hover {
+    background-color: #BF40BF;
+    border-color: #fff;
+ }
